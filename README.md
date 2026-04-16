@@ -46,6 +46,11 @@ Link 🔗: https://play.geforcenow.com/
 
 GeForce Now is NVIDIA’s cloud gaming service that streams high-end PC games over the internet, allowing you to play demanding titles on low-powered devices like laptops, tablets, phones, and TVs. It works by launching games from your existing digital libraries (e.g., Steam, Epic, Xbox) on remote NVIDIA servers.
 
+### EPIC GAMES 🎮
+Link 🔗: https://www.epicgames.com/
+
+Epic Games is a leading American interactive entertainment company and provider of 3D engine technology, best known for developing the massive hit Fortnite and the Unreal Engine, which powers many top-tier video games. Founded in 1991, they operate the Epic Games Store, a digital platform for buying games, and provide tools for developers via Epic Online Services.
+
 ## ENTERTAINMENT
 
 ### YOUTUBE 📹🔴
