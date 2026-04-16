@@ -1,4 +1,4 @@
-# 🌟🌐 goguardian image redirections 🌐🌟
+# 🌟🌐 goguardian bypass redirections 🌐🌟
 If some websites still doesn't work, use a hotspot or any connection not run by the school!
 
 ## WINDOWS 11 VM 🖵
