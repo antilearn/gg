@@ -75,7 +75,7 @@ Prime Video is a popular streaming service owned by Amazon that offers thousands
 * VIDEOS MAY NOT BE PLAYABLE
 
 ### BILIBILI 📹🔵
-Link 🔗: http://bilibili.com/
+Link 🔗: https://www.bilibili.com/
 
 Bilibili (often called B Site) is a leading Chinese video-sharing platform targeting younger generations, focused on animation, comics, and games (ACG). Often referred to as "China's YouTube," it features user-generated content, live streaming, and is famous for its unique "bullet curtain" (danmu) commenting system, which overlays real-time reactions on top of videos.
 
@@ -124,6 +124,11 @@ Link 🔗: https://www.x.com/
 Twitter (now officially branded as X) is a social media and microblogging platform for real-time communication, allowing users to share short, public updates called "tweets". Rebranded by Elon Musk in 2023, it combines social networking with features like long-form text, live audio (Spaces), and subscriptions.
 
 * WEBSITE MAY BE BLOCKED, USE OTHER WIFI'S
+
+### NOOKCHAT 🔒🗨️
+Link 🔗: https://www.nookchat.vercel.app/
+
+NookChat is an open-source, secure, and anonymous chat application designed for one-time, end-to-end encrypted conversations. It prioritizes privacy by requiring no user registration, logins, or phone numbers, allowing for immediate, private, and ephemeral communication. 
 
 ## SEARCH ENGINES
 
