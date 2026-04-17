@@ -10,11 +10,11 @@ To use this repo correctly, you must do the method provided:
 8. Now type "repo:antilearn/gg" and press enter
 9. Now you're ready to go on websites!
 
-If some websites still doesn't work, use a hotspot or any connection not run by the school!
+If some websites don't work, use a hotspot or any connection not run by the school!
 
-## RECOMENDED VMS
+## VMS
 
-### WINDOWS 11 VM 🖵
+### WINDOWS 11 VM 🖵 [ RECOMMENDED ]
 Link 🔗: https://app.apponfly.com/trial
 
 AppOnFly is a service that provides Windows Virtual Private Servers (VPS) and remote desktop access, allowing users to run Windows applications, including business software and games, via a web browser on any device (Mac, PC, iOS, Android)
@@ -28,7 +28,7 @@ Browser.lol is a web-based virtual browser that lets you surf the internet insid
 
 ## GAMES
 
-### CLOUDMOON GAMING ☁️🎮
+### CLOUDMOON GAMING ☁️🎮 [ RECOMMENDED ]
 Link 🔗: https://web.cloudmoonapp.com/
 
 CloudMoon is a mobile cloud-gaming and streaming service that allows users to play high-graphics mobile and PC games (like Genshin Impact, Roblox, and Fortnite) without downloading or installing them.
@@ -47,20 +47,28 @@ Link 🔗: https://poki.com/
 
 Poki is a popular free online gaming platform based in Amsterdam that offers hundreds of browser-based games, attracting millions of users monthly. It serves as an "online playground" with games across various genres—like Subway Surfers and Temple Run—that require no downloads or registration.
 
+* WEBSITE MAY BE BLOCKED, USE OTHER WIFI'S
+
 ### TWOPLAYERGAMES.ORG 🎮
 Link 🔗: https://www.twoplayergames.org/
 
 Twoplayergames.org is a dedicated online platform that hosts a large collection of free, browser-based games designed specifically for two players on a single device. It features a variety of 1v1, competitive, and cooperative games, including popular titles like Soccer Random, playable on both PC and mobile browsers.
+
+* WEBSITE MAY BE BLOCKED, USE OTHER WIFI'S
 
 ### GEFORCE NOW ☁️🎮
 Link 🔗: https://play.geforcenow.com/
 
 GeForce Now is NVIDIA’s cloud gaming service that streams high-end PC games over the internet, allowing you to play demanding titles on low-powered devices like laptops, tablets, phones, and TVs. It works by launching games from your existing digital libraries (e.g., Steam, Epic, Xbox) on remote NVIDIA servers.
 
+* WEBSITE MAY BE BLOCKED, USE OTHER WIFI'S
+
 ### EPIC GAMES 🎮
 Link 🔗: https://www.epicgames.com/
 
 Epic Games is a leading American interactive entertainment company and provider of 3D engine technology, best known for developing the massive hit Fortnite and the Unreal Engine, which powers many top-tier video games. Founded in 1991, they operate the Epic Games Store, a digital platform for buying games, and provide tools for developers via Epic Online Services.
+
+* WEBSITE MAY BE BLOCKED, USE OTHER WIFI'S
 
 ## ENTERTAINMENT
 
