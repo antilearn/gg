@@ -1,4 +1,15 @@
 # 🌟🌐 goguardian bypass redirections 🌐🌟
+To use this repo correctly, you must do the method provided:
+1. Log off of your account
+2. Press "add person" at the bottom
+3. When your in the school login, click "Sign-In options"
+4. Press "Sign in with GitHub"
+5. Now once your on the github page, scroll down, then press "Docs"
+6. Scroll down and press "Make a contribution"
+7. Now press the search icon on the top or press the three lines on the top left
+8. Now type "repo:antilearn/gg" and press enter
+9. Now you're ready to go on websites!
+
 If some websites still doesn't work, use a hotspot or any connection not run by the school!
 
 ## RECOMENDED VMS
