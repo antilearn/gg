@@ -1,4 +1,5 @@
 # 🌟🌐 goguardian bypass redirections 🌐🌟
+Why would you use this? Goguardian is known for being spyware and put into school systems where teachers can spy on you without permission which is very disgusting. antilearn/gg can fix that issue where you can easily **browse websites privately without any supervision!**
 To use this repo correctly, you must do the method provided:
 1. Log off of your account
 2. Press "add person" at the bottom
