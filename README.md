@@ -146,6 +146,13 @@ Twitter (now officially branded as X) is a social media and microblogging platfo
 
 * WEBSITE MAY BE BLOCKED, USE OTHER WIFI'S
 
+### REDDIT 🟠
+Link 🔗: https://www.reddit.com/
+
+Reddit is a massive collection of forum-based communities (subreddits) where users share, discuss, and curate content, often called the "front page of the internet". It differs from traditional social media by focusing on topics, anonymous discussion, and community-driven content, where upvotes bring quality posts to the top. 
+
+* WEBSITE MAY BE BLOCKED, USE OTHER WIFI'S
+
 ### NOOKCHAT 🔒🗨️
 Link 🔗: https://www.nookchat.vercel.app/
 
@@ -195,6 +202,41 @@ Grok is a generative AI chatbot developed by Elon Musk’s company, xAI, designe
 Link 🔗: https://claude.ai/
 
 Claude is a next-generation AI assistant and family of large language models (LLMs) developed by Anthropic, designed to be safe, accurate, and secure. It excels at text generation, coding, analysis, and summarizing complex documents. Claude is known for using "Constitutional AI" to ensure its responses are helpful, honest, and harmless.
+
+### VENICE UNCENSORED 🔞🗨️🤖
+Link 🔗: https://venice.ai/
+
+Venice AI is a decentralized, private, and uncensored AI platform designed for unrestricted creative freedom in chat, image generation, and code. Founded on a zero-knowledge approach, it ensures user conversations and data are never stored, monitored, or collected by the platform. It functions as a secure gateway to open-source models, allowing users to communicate via encrypted, decentralized servers. 
+
+### NOCOST AI UNCENSORED 🔞🗨️🤖
+Link 🔗: https://nocostai.vercel.app/
+
+nocostai.vercel.app is a curated, open-source project (often referred to as no-cost-ai by zebbern on GitHub) that provides a directory of over 80 free AI services. It acts as a hub for accessing tools, services, and APIs for artificial intelligence tasks without requiring sign-ups, API keys, or costs.
+
+## G--N WEBSITES
+
+### RULE34 🔞😺
+Link 🔗: https://rule34.xxx/
+
+Rule34.xxx is a popular adult imageboard website dedicated to Rule 34, the internet meme that says "if it exists, there is p-rn of it." It hosts millions of user-uploaded explicit images, animations, and comics featuring characters from anime, video games, cartoons, movies, and more, all organized with a detailed tagging system for easy searching. The site focuses mainly on drawn and animated h-ntai-style content rather than real photos.
+
+### REDGIFS 🔞📷
+Link 🔗: https://www.redgifs.com/
+
+RedGIFs is an online media hosting service specializing in short-form looping videos and animated images formatted as GIF alternatives, with a primary focus on adult content. The platform allows registered users to upload, share, and discover video clips.
+
+### H-NTAIHAVEN 🔞📖🌸
+Link 🔗: https://hentaihaven.xxx/
+
+HentaiHaven.xxx is a site linked to streaming or hosting h-ntai, a genre of adult animated content from Japan. Platforms like this have often offered free access to explicit anime videos, sometimes without proper licensing, which can raise legal and safety concerns. Visiting them may expose users to risks such as intrusive ads, malware, or pirated material, so caution is advised.
+
+### хVIDEOS 🔞📷
+Link 🔗: https://www.xvideos.com/
+
+XVideos is a large adult website that hosts and streams user-uploaded p-rnographic videos. It allows visitors to browse, search, and watch explicit content for free, often organized by categories and tags. The platform is one of the most widely visited sites of its kind on the internet.
+
+
+|| test ||
 
 ## MISC
 
