@@ -215,6 +215,7 @@ nocostai.vercel.app is a curated, open-source project (often referred to as no-c
 
 ## G--N WEBSITES
 
+<summary>Click to reveal spoiler</summary>
 ### RULE34 🔞😺
 Link 🔗: https://rule34.xxx/
 
@@ -234,9 +235,6 @@ HentaiHaven.xxx is a site linked to streaming or hosting h-ntai, a genre of adul
 Link 🔗: https://www.xvideos.com/
 
 XVideos is a large adult website that hosts and streams user-uploaded p-rnographic videos. It allows visitors to browse, search, and watch explicit content for free, often organized by categories and tags. The platform is one of the most widely visited sites of its kind on the internet.
-
-
-|| test ||
 
 ## MISC
 
