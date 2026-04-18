@@ -215,7 +215,6 @@ nocostai.vercel.app is a curated, open-source project (often referred to as no-c
 
 ## G--N WEBSITES
 
-<summary>Click to reveal spoiler</summary>
 ### RULE34 🔞😺
 Link 🔗: https://rule34.xxx/
 
