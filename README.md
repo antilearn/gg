@@ -246,7 +246,7 @@ XVideos is a large adult website that hosts and streams user-uploaded p-rnograph
 ## PROXY'S 🤝
 
 ### ACHROMA 🤝
-Link 🔗: https://www.cdn.jsdelivr.net/gh/achroma-ugb/svg@latest/index.svg
+Link 🔗: https://www.cdn.jsdelivr.net/gh/achroma-ubg/svg@latest/index.svg
 
 Achroma proxy (also known as Achroma Unblocker) is a web-based proxy and unblocked game hub used primarily to bypass internet filters on school Chromebooks and restricted networks. It routes web traffic through an intermediary server, allowing users to access blocked websites, apps, and browser games directly inside their browser without installing software.
 
