@@ -1,4 +1,4 @@
-# 🌟🌐 goguardian bypass redirections 🌐🌟
+## 🌟🌐 goguardian bypass redirections 🌐🌟
 Why would you use this? Goguardian is known for being spyware and put into school systems where teachers can spy on you without permission which is very disgusting. antilearn/gg can fix that issue where you can easily **browse websites privately without any supervision!**
 
 To use this repo correctly, you must do the method provided:
@@ -246,7 +246,7 @@ XVideos is a large adult website that hosts and streams user-uploaded p-rnograph
 ## PROXY'S 🤝
 
 ### ACHROMA 🤝
-Link 🔗: http://cdn.jsdelivr.net/gh/achroma-ubg/svg@latest/index.svg
+Link 🔗: https://cdn.jsdelivr.net/gh/achroma-ubg/svg@latest/index.svg
 
 Achroma proxy (also known as Achroma Unblocker) is a web-based proxy and unblocked game hub used primarily to bypass internet filters on school Chromebooks and restricted networks. It routes web traffic through an intermediary server, allowing users to access blocked websites, apps, and browser games directly inside their browser without installing software.
 
